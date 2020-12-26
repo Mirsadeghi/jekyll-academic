@@ -1,24 +1,31 @@
 ---
 layout: resume
 ---
-## Currently
+## Position
+Lecturer, [Department of Data Science & AI](https://research.monash.edu/en/organisations/department-of-data-science-ai)
 
-Current Position Description
+## Email
+[Hamid.Rezatofighi@monash.edu](mailto:Hamid.Rezatofighi@monash.edu)
 
 ## Education
+`Mar 2011 - Jul 2014`
+__Australian National University__
+, Computer Science, PhD
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Sep 2006 - Feb 2009`
+__University of Tehran__
+, Electrical Engineering - Biomedical Engineering, Master
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+## Research area
+Computer Vision, Machine Learning, Deep Learning, Robotics, Medical Image Understanding
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2020`
+Senior Research Fellow at the Australian Institute for Machine Learning (AIML), the University of Adelaide
+
+`2018`
+Research Fellowship at the Stanford Vision Lab (SVL), Stanford University
 
 ## Publications
 
