@@ -1,27 +1,27 @@
 # Site wide configuration
 
-title: Site Title
+title: Monash Robotic Vision Lab(RVL)
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: S. Hamid Rezatofighi
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: Hamid.Rezatofighi@monash.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
+  twitter: shamidrezatofig #username
+  linkedin: hamid-rezatofighi-b275a052 #username
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-8659-8773 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: VxAuxMwAAAAJ #id
   facebook: #username
   instagram: #username
   bing-verify:
